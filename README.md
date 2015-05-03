@@ -1,6 +1,8 @@
 # Withrow_CSCI2270_FinalProject
 Project Summary:
 
+Our main repository is at https://github.com/bmramsdell/Ramsdell_CSCI2270_FinalProject
+
 For our project we will create a set of algorithms that will allow users to play a simple game of chess. We define a simple game of chess to be a game that will not include functions for some of the more intricate rules of the game. For example, our functions will be built to model the basic moves of each chess piece and will not include complex rules such as castling, en passant, etc. The program will allow two teams to play, team one and team two. At each turn of the game, players will be asked where they would like to move. Our program will be built to check if the move is elligible, and if so allow the players to proceed with the game. As with a normal game of chess, the game will end when one team gets a checkmate.
 
 How to Run:
